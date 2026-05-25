@@ -274,5 +274,5 @@ docs: atualização do README
 ## 👨‍💻 Autor
 
 **Augusto Furin da Conceição**  
-Disciplina: Engenharia de Software  
-Projeto acadêmico desenvolvido para aplicação prática de conceitos de Engenharia de Software, GitHub, Kanban e metodologias ágeis.
+Disciplina: ciencias da computação
+Projeto acadêmico desenvolvido para aplicação prática de conceitos de tecnologia, GitHub, Kanban e metodologias ágeis.
